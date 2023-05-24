@@ -19,7 +19,7 @@ The more beauty you see, the more insights you gain。VisActor，演绎数据之
 
 <div align="center">
 
-[English](./README.md) | 简体中文
+[English]((https://github.com/VisActor/.github/profile/README.md) ) | 简体中文
 
 </div>
 
