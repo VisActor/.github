@@ -16,7 +16,7 @@ The more beauty you see, the more insights you gain. VisActor, presenting the be
 
 <div align="center">
 
-English| [简体中文](./README.zh-CN.md) 
+English| [简体中文](https://github.com/VisActor/.github/profile/README.zh-CN.md) 
 
 </div>
 
