@@ -1,6 +1,6 @@
 <div align="center">
   <a href="" target="_blank">
-    <img alt="VisActor Logo" width="200" src=""/>
+    <img alt="VisActor Logo" width="200" src="https://github.com/VisActor/.github/blob/main/profile/500_200.svg"/>
   </a>
 </div>
 
