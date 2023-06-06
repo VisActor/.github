@@ -25,15 +25,15 @@ English| [简体中文](https://github.com/VisActor/.github/blob/main/profile/RE
 # Component Library
 
 ## VChart
-[VChart]()，it is not only a multi-platform chart library that can be used out of the box, but also a vivid and flexible data storytelling tool.
+[VChart](https://github.com/VisActor/vchart)，it is not only a multi-platform chart library that can be used out of the box, but also a vivid and flexible data storytelling tool.
 ## VTable
-[VTable]()，it is not only a high-performance multidimensional data analysis table, but also a grid artist who creates between rows and columns.
+[VTable](https://github.com/VisActor/vtable)，it is not only a high-performance multidimensional data analysis table, but also a grid artist who creates between rows and columns.
 
 ## VGrammar
-[VGrammar]()，it is not only a visualization grammar that generates thousands of charts, but also a data magician that turns boredom into magic.
+[VGrammar](https://github.com/VisActor/vgrammar)，it is not only a visualization grammar that generates thousands of charts, but also a data magician that turns boredom into magic.
 
 ## VRender
-[VRender]()，it is not only a feature-rich visualization rendering engine, but also a skilled and artistic pen.
+[VRender](https://github.com/VisActor/vrender)，it is not only a feature-rich visualization rendering engine, but also a skilled and artistic pen.
 
 ## VGis
 Coming soon...
