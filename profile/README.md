@@ -22,24 +22,20 @@ English| [简体中文](https://github.com/VisActor/.github/blob/main/profile/RE
 
 > VisActor is derived from a large number of visualization scenarios. While covering conventional visualization scenarios, it focuses on narrative visualization as a new point of emphasis and intelligent visualization as its goal. It has formed a visualization solution composed of multiple modules including rendering engine, visualization grammar, data analysis component, chart component, table component, GIS component, graph visualization component, and intelligent component.
 
-# Component Library
+# The Way of Communication
 
-## VChart
-[VChart](https://github.com/VisActor/vchart)，it is not only a multi-platform chart library that can be used out of the box, but also a vivid and flexible data storytelling tool.
-## VTable
-[VTable](https://github.com/VisActor/vtable)，it is not only a high-performance multidimensional data analysis table, but also a grid artist who creates between rows and columns.
-
-## VGrammar
-[VGrammar](https://github.com/VisActor/vgrammar)，it is not only a visualization grammar that generates thousands of charts, but also a data magician that turns boredom into magic.
-
-## VRender
-[VRender](https://github.com/VisActor/vrender)，it is not only a feature-rich visualization rendering engine, but also a skilled and artistic pen.
-
-## VGis
-Coming soon...
-
-## VGraph
-Coming soon...
+1. website:[website](https://www.visactor.io/)
+2. discord group:[VisActor Channel](https://discord.gg/ThpDybpr)
+   
 
 # Contribution
 Welcome to contribute!
+If you want to participate in the VisActor open source build, you can do the following:
+1. Clone one project and submit your pull request,more, read the [Code of Conduct](https://github.com/VisActor/VChart/blob/develop/CODE_OF_CONDUCT.md) and our [contributing guide](https://github.com/VisActor/VChart/blob/develop/CONTRIBUTING.md) first。
+2. You can create your own open source project and then make its repository available to us, and we'll promote and publicize it together!
+3. You can publish your demos,airticles... and add them to the related wiki.
+  [VChart](https://github.com/VisActor/VChart/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vchart)
+  [VTable](https://github.com/VisActor/VTable/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vtable)
+  [VGrammar](https://github.com/VisActor/VGrammar/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vgrammar)
+
+
