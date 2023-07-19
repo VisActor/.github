@@ -25,25 +25,11 @@ The more beauty you see, the more insights you gain。VisActor，演绎数据之
 
 > VisActor 是从大量可视化场景沉淀而来。在覆盖常规可视化场景的同时，以叙事可视化为新的着力点，以智能可视化为目标，形成了包括渲染引擎、可视化语法、数据分析组件、图表组件、表格组件、GIS组件、图可视化组件、智能组件等多个模块组成的可视化解决方案。
 
-# 组件库
+# 交流
+1. website: [https://www.visactor.io]
+2. discord:
+3. 微信公众号：![VisActor](https://github.com/VisActor/.github/blob/main/profile/qrcode_for_gh_ee9bdf2e571c_258.jpg?raw=true)
 
-## VChart
-[VChart]()，不只是开箱即用的多端图表库，更是生动灵活的数据故事讲述者。
-## VTable
-[VTable]()，不只是一款高性能的多维数据分析表格，更是一个在行列间创作的方格艺术家。
-
-## VGrammar
-[VGrammar]()，不只是生成万千图表的可视化语法，更是化枯燥为神奇的数据魔法师。
-
-## VRender
-[VRender]()，不只是一个功能丰富的可视化渲染引可视化渲染擎，更是一支得心应手的生花妙笔。
-
-
-## VGis
-敬请期待...
-
-## VGraph
-敬请期待...
 
 
 
