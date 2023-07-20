@@ -24,10 +24,8 @@ English| [简体中文](https://github.com/VisActor/.github/blob/main/profile/RE
 
 # The Way of Communication
 
-1. website:[website](https://www.visactor.io/)
-2. discord group:[VisActor Channel](https://discord.gg/ThpDybpr)
-   
-
+1. website: [https://www.visactor.io](https://www.visactor.io)
+2. discord:[VisActor Channel](https://discord.gg/XuXcTpmD)
 # Contribution
 Welcome to contribute!
 If you want to participate in the VisActor open source build, you can do the following:
