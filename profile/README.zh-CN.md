@@ -45,3 +45,6 @@ The more beauty you see, the more insights you gain。VisActor，演绎数据之
   [VChart](https://github.com/VisActor/VChart/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vchart)
   [VTable](https://github.com/VisActor/VTable/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vtable)
   [VGrammar](https://github.com/VisActor/VGrammar/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vgrammar)
+
+#更多
+我们搜集相关的文章放到wiki里 [here](https://github.com/VisActor/.github/wiki/All-articles-about-VisActor),你可以阅读，分享，添加你自己的文章。
