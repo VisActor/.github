@@ -24,13 +24,14 @@ English | [简体中文](https://github.com/VisActor/.github/blob/main/profile/R
 
 # The Way of Communication
 
-1. website: [https://www.visactor.io](https://www.visactor.io)
-2. discord:[VisActor Channel](https://discord.gg/3wPyxVyH6m)
+1. Website: [https://www.visactor.io](https://www.visactor.io)
+2. Discord: [VisActor Channel](https://discord.gg/3wPyxVyH6m)
 
 # Contribution
+
 Welcome to contribute!
 If you want to participate in the VisActor open source build, you can do the following:
-1. Clone one project and submit your pull request,more, read the [Code of Conduct](https://github.com/VisActor/VChart/blob/develop/CODE_OF_CONDUCT.md) and our [contributing guide](https://github.com/VisActor/VChart/blob/develop/CONTRIBUTING.md) first。
+1. Clone one project and submit your pull request,more, read the [Code of Conduct](https://github.com/VisActor/VChart/blob/develop/CODE_OF_CONDUCT.md) and our [contributing guide](https://github.com/VisActor/VChart/blob/develop/CONTRIBUTING.md) first.
 2. You can create your own open source project and then make its repository available to us, and we'll promote and publicize it together!
 3. You can publish your demos,airticles... and add them to the related wiki.
   [VChart](https://github.com/VisActor/VChart/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vchart)
@@ -38,4 +39,5 @@ If you want to participate in the VisActor open source build, you can do the fol
   [VGrammar](https://github.com/VisActor/VGrammar/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vgrammar)
 
 # More
+
 We collect articles about VisActor [here](https://github.com/VisActor/.github/wiki/All-articles-about-VisActor),you can read and share them to you friends.
