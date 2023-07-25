@@ -16,7 +16,7 @@ The more beauty you see, the more insights you gain. VisActor, presenting the be
 
 <div align="center">
 
-English| [简体中文](https://github.com/VisActor/.github/blob/main/profile/README.zh-CN.md)
+English | [简体中文](https://github.com/VisActor/.github/blob/main/profile/README.zh-CN.md)
 
 </div>
 
@@ -26,6 +26,7 @@ English| [简体中文](https://github.com/VisActor/.github/blob/main/profile/RE
 
 1. website: [https://www.visactor.io](https://www.visactor.io)
 2. discord:[VisActor Channel](https://discord.gg/3wPyxVyH6m)
+
 # Contribution
 Welcome to contribute!
 If you want to participate in the VisActor open source build, you can do the following:
