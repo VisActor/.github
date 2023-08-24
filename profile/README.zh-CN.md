@@ -31,7 +31,7 @@ The more beauty you see, the more insights you gain。VisActor，演绎数据之
 # 交流
 1. website: [https://www.visactor.io](https://www.visactor.io)
 2. discord:[VisActor Channel](https://discord.gg/3wPyxVyH6m)
-3. 微信公众号：
+3. 微信公众号（通过公众号菜单可以加入微信群）：
 
 ![VisActor](https://github.com/VisActor/.github/blob/main/profile/qrcode_for_gh_ee9bdf2e571c_258.jpg?raw=true)
 
