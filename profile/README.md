@@ -29,6 +29,9 @@ English | [简体中文](https://github.com/VisActor/.github/blob/main/profile/R
 
 1. Website: [https://www.visactor.io](https://www.visactor.io)
 2. Discord: [VisActor Channel](https://discord.gg/3wPyxVyH6m)
+3. WeChat(You can join the WeChat group through the official account menu)：
+
+![VisActor](https://github.com/VisActor/.github/blob/main/profile/qrcode_for_gh_ee9bdf2e571c_258.jpg?raw=true)
 
 # Contribution
 
