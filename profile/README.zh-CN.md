@@ -37,7 +37,8 @@ The more beauty you see, the more insights you gain。VisActor，演绎数据之
 
 4. 知乎专栏：[https://www.zhihu.com/column/c_1143220686553337856](https://www.zhihu.com/column/c_1143220686553337856)
 
-
+5. 飞书群：
+ <img src ="https://github.com/VisActor/.github/blob/main/profile/%E9%A3%9E%E4%B9%A620231030-134614.png" width = "400px" />
 
 # 参与贡献
 欢迎参与开源建设！
