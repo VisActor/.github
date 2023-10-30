@@ -34,7 +34,7 @@ English | [简体中文](https://github.com/VisActor/.github/blob/main/profile/R
 ![VisActor](https://github.com/VisActor/.github/blob/main/profile/qrcode_for_gh_ee9bdf2e571c_258.jpg?raw=true)
 
 4. Lark Group
-   ![Lark](https://github.com/VisActor/.github/blob/main/profile/%E9%A3%9E%E4%B9%A620231030-134614.png)
+ <img src ="https://github.com/VisActor/.github/blob/main/profile/%E9%A3%9E%E4%B9%A620231030-134614.png" width = "400px" />
 
 # Contribution
 
