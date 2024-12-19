@@ -47,6 +47,10 @@ If you want to participate in the VisActor open source build, you can do the fol
   [VTable](https://github.com/VisActor/VTable/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vtable)
   [VGrammar](https://github.com/VisActor/VGrammar/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vgrammar)
 
-# More
 
-We collect articles about VisActor [here](https://github.com/VisActor/.github/wiki/All-articles-about-VisActor),you can read and share them to you friends.
+## 👐 Contributing
+VisActor welcomes community developers to participate in co-construction, and sincerely thanks every collaborator for their efforts.
+
+<a href="https://github.com/VisActor/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=VisActor" />
+</a>
