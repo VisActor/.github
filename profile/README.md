@@ -51,6 +51,7 @@ If you want to participate in the VisActor open source build, you can do the fol
 ## 👐 Contributing
 VisActor welcomes community developers to participate in co-construction, and sincerely thanks every collaborator for their efforts.
 
-<a href="https://github.com/VisActor/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=VisActor" />
+## VChart
+<a href="https://github.com/VisActor/VChart/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=VisActor/VChart" />
 </a>
