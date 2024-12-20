@@ -51,8 +51,10 @@ If you want to participate in the VisActor open source build, you can do the fol
 ## 👐 Contributing
 VisActor welcomes community developers to participate in co-construction, and sincerely thanks every collaborator for their efforts.
 
-## VChart
-[contributing guid](https://www.visactor.io/vchart/contributing/)
-<a href="https://github.com/VisActor/VChart/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=VisActor/VChart" />
-</a>
+## VChart： [contributing guid](https://www.visactor.io/vchart/contributing/)
+## VTable： [contributing guid](https://www.visactor.io/VTable/contributing/)
+## VStory： [contributing guid](https://www.visactor.io/vstory/contributing/)
+## VMind： [contributing guid](https://www.visactor.io/vmind/contributing/)
+## VGrammar： [contributing guid](https://www.visactor.io/VGrammar/contributing/)
+## VRender： [contributing guid](https://www.visactor.io/vrender/contributing/)
+
