@@ -1,3 +1,6 @@
+<div>
+   VisActor数据可视化创意编程大赛暨文档达人挑战赛：https://juejin.cn/post/7451775061902622747
+</div>
 <div align="center">
   <a href="https://github.com/VisActor#gh-light-mode-only" target="_blank">
     <img alt="VisActor Logo" width="200" src="https://github.com/VisActor/.github/blob/main/profile/logo_500_200_light.svg"/>
