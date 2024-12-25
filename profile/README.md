@@ -1,5 +1,5 @@
 <div>
-   VisActor数据可视化创意编程大赛暨文档达人挑战赛：https://juejin.cn/post/7451775061902622747
+   【快来报名】VisActor数据可视化创意编程大赛暨文档达人挑战赛：https://juejin.cn/post/7451775061902622747
    2025年1月-3月
 </div>
 <div align="center">
