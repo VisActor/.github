@@ -47,18 +47,11 @@ If you want to participate in the VisActor open source build, you can do the fol
 1. Clone one project and submit your pull request,more, read the [Code of Conduct](https://github.com/VisActor/VChart/blob/develop/CODE_OF_CONDUCT.md) and our [contributing guide](https://github.com/VisActor/VChart/blob/develop/CONTRIBUTING.md) first.
 2. You can create your own open source project and then make its repository available to us, and we'll promote and publicize it together!
 3. You can publish your demos,airticles... and add them to the related wiki.
-  [VChart](https://github.com/VisActor/VChart/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vchart)
-  [VTable](https://github.com/VisActor/VTable/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vtable)
-  [VGrammar](https://github.com/VisActor/VGrammar/wiki/Showcase-Your-Visualizations-Created-Using-@visactor-vgrammar)
-
-
-## 👐 Contributing
-VisActor welcomes community developers to participate in co-construction, and sincerely thanks every collaborator for their efforts.
 
 ## VChart： [contributing guid](https://www.visactor.io/vchart/contributing/)
-## VTable： [contributing guid](https://www.visactor.io/VTable/contributing/)
+## VTable： [contributing guid](https://www.visactor.io/vtable/contributing/)
 ## VStory： [contributing guid](https://www.visactor.io/vstory/contributing/)
 ## VMind： [contributing guid](https://www.visactor.io/vmind/contributing/)
-## VGrammar： [contributing guid](https://www.visactor.io/VGrammar/contributing/)
+## VGrammar： [contributing guid](https://www.visactor.io/vgrammar/contributing/)
 ## VRender： [contributing guid](https://www.visactor.io/vrender/contributing/)
 
