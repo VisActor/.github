@@ -30,7 +30,7 @@ English | [简体中文](https://github.com/VisActor/.github/blob/main/profile/R
 
 # The Way of Communication
 
-1. Website: [https://www.visactor.io](https://www.visactor.io)
+1. Website: [https://www.visactor.io](https://www.visactor.io)    [https://www.visactor.com](https://www.visactor.com) 
 2. Discord: [VisActor Channel](https://discord.gg/3wPyxVyH6m)
 3. WeChat(You can join the WeChat group through the official account menu)：
 
