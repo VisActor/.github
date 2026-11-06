@@ -43,12 +43,16 @@ The more beauty you see, the more insights you gain。VisActor，演绎数据之
 # 参与贡献
 欢迎参与开源建设！
 
-## VChart： [contributing guid](https://www.visactor.io/vchart/contributing/)
-## VTable： [contributing guid](https://www.visactor.io/VTable/contributing/)
-## VStory： [contributing guid](https://www.visactor.io/vstory/contributing/)
-## VMind： [contributing guid](https://www.visactor.io/vmind/contributing/)
-## VGrammar： [contributing guid](https://www.visactor.io/VGrammar/contributing/)
-## VRender： [contributing guid](https://www.visactor.io/vrender/contributing/)
+## VChart： [贡献指南](https://www.visactor.io/vchart/contributing/)
+## VTable： [贡献指南](https://www.visactor.io/vtable/contributing/)
+## VStory： [贡献指南](https://www.visactor.io/vstory/contributing/)
+
+## VisActor Skills
+
+[官网与案例](https://visactor.com/skills) · [代码仓库](https://github.com/VisActor/skills) · [贡献指南](https://github.com/VisActor/skills/blob/main/CONTRIBUTING.md)
+
+## VGrammar： [贡献指南](https://www.visactor.io/vgrammar/contributing/)
+## VRender： [贡献指南](https://www.visactor.io/vrender/contributing/)
 
 
 # 更多
