@@ -47,10 +47,14 @@ If you want to participate in the VisActor open source build, you can do the fol
 2. You can create your own open source project and then make its repository available to us, and we'll promote and publicize it together!
 3. You can publish your demos,airticles... and add them to the related wiki.
 
-## VChart： [contributing guid](https://www.visactor.io/vchart/contributing/)
-## VTable： [contributing guid](https://www.visactor.io/vtable/contributing/)
-## VStory： [contributing guid](https://www.visactor.io/vstory/contributing/)
-## VMind： [contributing guid](https://www.visactor.io/vmind/contributing/)
-## VGrammar： [contributing guid](https://www.visactor.io/vgrammar/contributing/)
-## VRender： [contributing guid](https://www.visactor.io/vrender/contributing/)
+## VChart： [Contributing guide](https://www.visactor.io/vchart/contributing/)
+## VTable： [Contributing guide](https://www.visactor.io/vtable/contributing/)
+## VStory： [Contributing guide](https://www.visactor.io/vstory/contributing/)
+
+## VisActor Skills
+
+[Website and examples](https://visactor.io/skills) · [Repository](https://github.com/VisActor/skills) · [Contributing guide](https://github.com/VisActor/skills/blob/main/CONTRIBUTING.md)
+
+## VGrammar： [Contributing guide](https://www.visactor.io/vgrammar/contributing/)
+## VRender： [Contributing guide](https://www.visactor.io/vrender/contributing/)
 
